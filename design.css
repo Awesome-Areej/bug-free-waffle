@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+  color: white;
+  font-family: impact;
+  
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  font-family: Arial;
+}
+
+div {
+  text-align: center;
+}
+.button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 10px 10px;
+  cursor: pointer;
+  font-family: Comic Sans MS; 
+  border-radius: 12px;
+}
+body{
+margin: 0;
+background-image:url("https://t.facdn.net/21303776@800-1475361156.jpg");
+background-size  : cover;
+background-repeat: no-repeat;
+background-position: top;
+background-size: 800px 800px;
+
+height: 500%
+}
